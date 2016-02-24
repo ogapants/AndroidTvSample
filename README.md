@@ -1,3 +1,3 @@
-# AndroidTvSample
+# Android Tv Sample
 
-This is the Template created by a Android Studio 1.4.1.
+This is generated project by a Android Studio 1.5.1.
