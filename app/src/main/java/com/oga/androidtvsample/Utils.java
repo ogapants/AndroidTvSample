@@ -14,9 +14,7 @@
 
 package com.oga.androidtvsample;
 
-import android.app.AlertDialog;
 import android.content.Context;
-import android.content.DialogInterface;
 import android.graphics.Point;
 import android.view.Display;
 import android.view.WindowManager;
